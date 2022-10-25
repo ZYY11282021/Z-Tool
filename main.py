@@ -3,7 +3,7 @@
 import mods.randomNumber
 import mods.encryDecry
 
-print('\033[32m欢迎使用Z Tool 0.0.1-alpha!\n如果需要帮助，请输入 help')
+print('\033[32m欢迎使用Z Tool 0.0.1-alpha!\033[0m\n如果需要帮助，请输入 help')
 
 
 def opt(command):
