@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
-import mods.randomNumber
 import mods.encryDecry
+import mods.randomNumber
 
 print('\033[32m欢迎使用Z Tool 0.0.1-alpha!\033[0m\n如果需要帮助，请输入 help')
 
