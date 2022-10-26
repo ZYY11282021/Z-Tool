@@ -30,7 +30,7 @@ def opt(command):
         except IndexError:
             print('参数错误：必要参数未填')
     else:
-        print('输入的命令无效，请重新输入')
+        print('命令错误：无法找到"%s"这个命令' % com[0])
 
 
 if __name__ == '__main__':
