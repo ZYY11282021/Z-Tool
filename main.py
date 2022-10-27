@@ -35,6 +35,6 @@ def opt(command):
 
 if __name__ == '__main__':
     while True:
-        com = input('> ').split()
+        com = input('>>> ').split()
         if opt(com) == 'q':
             break
